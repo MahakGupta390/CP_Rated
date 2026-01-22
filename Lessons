@@ -1,0 +1,12 @@
+//1..  If:
+
+ai ≥ 1e9
+
+n ≥ 1e5
+
+sum / answer involves addition
+
+👉 Default to long long
+
+//2...
+if ceil(b/a) then (b+a-1)/a
