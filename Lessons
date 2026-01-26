@@ -10,3 +10,13 @@ sum / answer involves addition
 
 //2...
 if ceil(b/a) then (b+a-1)/a
+//3 
+Bitwise AND can only remove bits, never create them.
+
+Once a bit becomes 0, it can never become 1 again.
+A bit survives in the final answer iff it is present in every element initially.
+e.g 1111 & 0011 only =>0011 if '1' bit present in both then only survives.
+
+//4 
+A string’s letters can be rearranged to form a palindrome
+if and only if at most one character has an odd frequency.
