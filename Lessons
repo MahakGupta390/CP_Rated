@@ -20,3 +20,5 @@ e.g 1111 & 0011 only =>0011 if '1' bit present in both then only survives.
 //4 
 A string’s letters can be rearranged to form a palindrome
 if and only if at most one character has an odd frequency.
+//5 :- cf :odd queries
+// for optimisation we can use prefix sum technique
