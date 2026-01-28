@@ -22,3 +22,5 @@ A string’s letters can be rearranged to form a palindrome
 if and only if at most one character has an odd frequency.
 //5 :- cf :odd queries
 // for optimisation we can use prefix sum technique
+
+//6 :- If swaps are free, ignore order. Reduce the problem to counts. cf :-swaps and delete
